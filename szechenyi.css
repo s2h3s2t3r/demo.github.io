@@ -2,5 +2,5 @@ body{
     background-image: url("bg_lanchid.png");
     background-size: cover;
 }
-/*ul.list-group{width: fit-content;}*/
+ul.list-group{width: auto;}
 dd{text-align: justify;}
