@@ -217,4 +217,4 @@ body {
   width: 50%;
   background: #5bc0eb;
 }
-a:link,a:active,a:visited, a:hover{color:white; font-size: xx-large;}
+a:link,a:active,a:visited, a:hover{color:white; text-decoration: none;}
