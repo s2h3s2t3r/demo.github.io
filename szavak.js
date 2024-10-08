@@ -4,7 +4,7 @@ const wordList = [
         hint: "Itt született."
     },
     {
-        word: "napóleon",
+        word: "napoleon",
         hint: "Ellene harcolt 1814-ben."
     },
     {
