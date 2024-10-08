@@ -1,6 +1,6 @@
 const wordList = [
     {
-        word: "bécs",
+        word: "becs",
         hint: "Itt született."
     },
     {
@@ -24,7 +24,7 @@ const wordList = [
         hint: "Vele sokszor nem értettek egyet."
     },
     {
-        word: "lánchíd",
+        word: "lanchid",
         hint: "Az első állandó dunai híd Pest és Buda között."
     },
     {
