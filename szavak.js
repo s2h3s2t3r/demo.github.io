@@ -32,7 +32,7 @@ const wordList = [
         hint: "Ezt is szabályozta."
     },
     {
-        word: "döbling",
+        word: "dobling",
         hint: "Itt hunyt el."
     },
 ]
