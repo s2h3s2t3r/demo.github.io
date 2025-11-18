@@ -22,7 +22,7 @@ function randomWord() {
 randomWord();
 function initGame(e) {
     let key = e.target.value.toLowerCase();
-    if(key.match(/^[A-Za-z]+$/) && !incorrectLetters.includes(` ${key}`) && !correctLetters.includes(key)) {
+    if(key.match(/^[A-Za-zÁÉÍÓÖŐÚÜŰáéíóöőúüű]+$/) && !incorrectLetters.includes(` ${key}`) && !correctLetters.includes(key)) {
         if(word.includes(key)) {
             for (let i = 0; i < word.length; i++) {
                 if(word[i] == key) {
